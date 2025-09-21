@@ -1,4 +1,4 @@
-# AI-Based Text-to-SQL Assistant
+# Semantic AI for Generating Expressions
 
 A comprehensive AI-powered assistant that converts natural language queries into SQL statements using state-of-the-art language models.
 
