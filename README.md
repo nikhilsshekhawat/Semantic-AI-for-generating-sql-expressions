@@ -1,6 +1,6 @@
 # Semantic AI for Generating Expressions
 
-A comprehensive AI-powered assistant that converts natural language queries into SQL statements using state-of-the-art language models.
+A comprehensive assistant that converts natural language queries into SQL statements using state-of-the-art language models.
 
 ## Features
 
